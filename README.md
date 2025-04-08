@@ -49,9 +49,6 @@
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
-  <a href="https://www.snort.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" alt="Snort" width="40" height="40"/>
-  </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="Nmap" width="40" height="40"/>
   </a>
